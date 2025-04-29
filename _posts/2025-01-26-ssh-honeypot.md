@@ -16,9 +16,9 @@ image:
   path: /assets/img/sshhoneypot.png
   alt: SSH Honeypot
 ---
-  **Introducing My SSH Honeypot Project**
+  **SSH Honeypot Project**
 
-  As a cybersecurity enthusiast, I’ve always been fascinated by the cat-and-mouse game between defenders and attackers in the digital world. To better understand malicious activities targeting servers, I created an **SSH Honeypot** project, now open-sourced on [GitHub](https://github.com/kw-soft/SSH-honeypot). In this post, I’ll share the motivation behind the project, its key features, and how you can use or contribute to it.
+  Hey Guys! I’ve always been fascinated by the cat-and-mouse game between defenders and attackers in the digital world. To better understand malicious activities targeting servers, I created an **SSH Honeypot** project, now open-sourced on [GitHub](https://github.com/kw-soft/SSH-honeypot). In this post, I’ll share the motivation behind the project, its key features, and how you can use or contribute to it.
 
   **What is an SSH Honeypot?**
 
