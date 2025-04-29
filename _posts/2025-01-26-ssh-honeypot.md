@@ -11,6 +11,10 @@ tags:
   - Cybersecurity
   - Python
   - Honeypot
+  - Secure Shell
+image:
+  path: /assets/img/sshhoneypot.png
+  alt: SSH Honeypot
 ---
   **Introducing My SSH Honeypot Project**
 

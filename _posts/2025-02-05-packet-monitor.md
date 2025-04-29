@@ -5,8 +5,8 @@ date: 2025-02-05
 categories: security
 tags: [Network, Cybersecurity, Packet Analysis, Python]
 image:
-  path: https://raw.githubusercontent.com/kw-soft/PacketMonitor/refs/heads/main/screenshots/screenshot.PNG
-  alt: PacketMonitor Tool Preview
+  path: /assets/img/packet-monitor.png
+  alt: Packet Monitor Tool
 ---
 
 *Introducing My PacketMonitor Tool*
