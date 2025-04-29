@@ -20,20 +20,20 @@ keywords: Resume, IT Specialist, Kevin Wilck, PHP, Python, DevOps, Cybersecurity
 ## Experience
 
 ### Computer Science Expert, Systema Datentechnik
-: - *2023 - Present*
+: *2023 - Present*
 : Instructor/Trainer for IT specialist system integration
 : Certified as Sophos Firewall Certified Engineer v20.0 (2024)
 : Certified in CompTIA PenTest+ (2024)
 
 ### Staff Sergeant, BMVg
 *2012 - 2023*
-- Control and Reporting Centre & Air traffic control 
-- Incident Response & Reporting
-- Combined with instructor activities
+: Control and Reporting Centre & Air traffic control 
+: Incident Response & Reporting
+: Combined with instructor activities
 
 ### IT-Systemadministrator
 *2011 - 2012*
-- Network management and system maintenance to enhance the performance and security of IT infrastructure
+: Network management and system maintenance to enhance the performance and security of IT infrastructure
 
 
 
