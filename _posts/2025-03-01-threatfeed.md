@@ -11,7 +11,7 @@ image:
 
 *ThreatFeed HQ*
 
-Hey there! I’m thrilled to tell you about **ThreatFeed HQ**, a cool project I’ve got running on [GitHub](https://github.com/kw-soft/ThreatIntelligence). It’s all about keeping you in the loop with the latest security news, and the best part? You can get real-time updates by joining our [Discord server](https://discord.com/invite/YOUR_DISCORD_INVITE_LINK)! Let’s check out what this tool does and why you’ll want to hop on board.
+Hey there! I’m thrilled to tell you about **ThreatFeed HQ**, a cool project I’ve got running on [GitHub](https://github.com/kw-soft/ThreatIntelligence). It’s all about keeping you in the loop with the latest security news, and the best part? You can get real-time updates by joining our [Discord server](https://discord.com/invite/BgUCmYP3px)! Let’s check out what this tool does and why you’ll want to hop on board.
 
 *What’s ThreatFeed HQ?*
 
