@@ -37,6 +37,14 @@
         </li>
         <!-- .nav-item -->
       {% endfor %}
+      <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
+        <a href="https://cve.wilck.io" class="nav-link">
+          <i class="fa-fw {{ tab.icon }}"></i>
+          
+
+          <span>CVE Search</span>
+        </a>
+      </li>
     </ul>
   </nav>
 
