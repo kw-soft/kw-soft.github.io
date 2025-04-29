@@ -153,6 +153,14 @@ pwa:
 
 paginate: 10
 
+plugins:
+  - jekyll-webp
+webp:
+  enabled: true
+  quality: 80
+  img_dir: ["/assets/img"]
+  nested: true
+
 # The base URL of your site
 baseurl: ""
 
