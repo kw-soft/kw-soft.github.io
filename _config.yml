@@ -160,6 +160,7 @@ webp:
   quality: 80
   img_dir: ["/assets/img"]
   nested: true
+  formats: [".jpeg", ".jpg", ".png"]
 
 # The base URL of your site
 baseurl: ""
