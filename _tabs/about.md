@@ -7,8 +7,6 @@ author: Kevin Wilck
 
 ![Hero image](/assets/img/hero.png)
 
-
-
 # 👋 Hi!
 
 I’m Kevin Wilck, an IT specialist, AEVO-certified trainer, and self-taught developer based in Ludwigsfelde, near Berlin. With a strong passion for IT security, I develop secure, efficient solutions using Python and manage Windows and Linux server environments to ensure robust system integrity.
