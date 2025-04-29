@@ -10,17 +10,17 @@ keywords: Resume, IT Specialist, Kevin Wilck, PHP, Python, DevOps, Cybersecurity
 
 
 ### Personal Information
-: **Age**: 33
-: **Profile**: IT Specialist
-: **Address**: Ludwigsfelde, 14974
-: **E-mail**: kevin@wilck.io
+- **Age**: 33
+- **Profile**: IT Specialist
+- **Address**: Ludwigsfelde, 14974
+- **E-mail**: kevin@wilck.io
 
 
 
 ## Experience
 
 ### Computer Science Expert, Systema Datentechnik
-*2023 - Present*
+: - *2023 - Present*
 : Instructor/Trainer for IT specialist system integration
 : Certified as Sophos Firewall Certified Engineer v20.0 (2024)
 : Certified in CompTIA PenTest+ (2024)
