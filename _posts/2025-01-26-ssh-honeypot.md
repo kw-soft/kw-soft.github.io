@@ -11,7 +11,6 @@ tags:
   - Cybersecurity
   - Python
   - Honeypot
-author: [Kevin]
 ---
   **Introducing My SSH Honeypot Project**
 
