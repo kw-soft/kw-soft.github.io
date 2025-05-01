@@ -5,7 +5,7 @@ date: 2025-03-01
 categories: security
 tags: [Cybersecurity, Threat Intelligence, Discord, Python]
 image:
-  path: /assets/img/threatfeed.png
+  path: /assets/img/threatfeed.webp
   alt: ThreatFeed HQ 
 ---
 
