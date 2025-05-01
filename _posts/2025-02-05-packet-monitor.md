@@ -5,7 +5,7 @@ date: 2025-02-05
 categories: security
 tags: [Network, Cybersecurity, Packet Analysis, Python]
 image:
-  path: /assets/img/packet-monitor.png
+  path: /assets/img/packet-monitor.webp
   alt: Packet Monitor Tool
 ---
 

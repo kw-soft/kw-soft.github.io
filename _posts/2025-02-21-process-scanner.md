@@ -5,8 +5,7 @@ date: 2025-02-21
 categories: security
 tags: [Cybersecurity, Process Scanning, VirusTotal, Python]
 image:
-  webp: /assets/img/pypscan-preview.webp
-  path: /assets/img/pypscan-preview.png
+  path: /assets/img/pypscan-preview.webp
   alt: PyPScan Tool Preview
 ---
 

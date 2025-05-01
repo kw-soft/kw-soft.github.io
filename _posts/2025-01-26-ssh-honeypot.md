@@ -13,7 +13,7 @@ tags:
   - Honeypot
   - Secure Shell
 image:
-  path: /assets/img/sshhoneypot.png
+  path: /assets/img/sshhoneypot.webp
   alt: SSH Honeypot
 ---
   **SSH Honeypot Project**
