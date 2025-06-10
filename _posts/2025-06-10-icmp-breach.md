@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ICMPBreach: The Hidden Dangers of ICMP Traffic
+title: ICMPBreach - The Hidden Dangers of ICMP Traffic
 date: 2025-06-10
 categories: security
 tags: [Cybersecurity, Network Security, ICMP, Data Exfiltration]
