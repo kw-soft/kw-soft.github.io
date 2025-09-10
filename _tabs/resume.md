@@ -4,8 +4,8 @@ permalink: /resume/
 order: 3
 layout: page
 icon: fas fa-stream
-description: Resume of Kevin Wilck, IT specialist from Ludwigsfelde
-keywords: Resume, IT Specialist, Kevin Wilck, PHP, Python, DevOps, Cybersecurity, Threat Intelligence, SoC, Server Administration, Patchmanagement
+description: Resume of Kevin Wilck, IT specialist & SoC Analyst from Ludwigsfelde
+keywords: Resume, IT Specialist, Kevin Wilck, PHP, Python, DevOps, Cybersecurity, Threat Intelligence, SoC, Server Administration, Patchmanagement, SoC Analyst
 ---
 
 
@@ -15,15 +15,32 @@ keywords: Resume, IT Specialist, Kevin Wilck, PHP, Python, DevOps, Cybersecurity
 - **Address**: Ludwigsfelde, 14974
 - **E-mail**: kevin@wilck.io
 
+## Skills & Technologies
 
+- Sophos EDR / XDR / MDR  
+- Sophos Firewall (v20.0 & v21.0 Certified Engineer)  
+- Cisco Secure Endpoint & Cisco XDR  
+- Logsign SIEM, Wazuh  
+- Hornet Security – Spam & Malware Protection  
+
+**SOC Analyst Skills & Tools:**  
+- SIEM Administration & Use Case Development  
+- Threat Detection & Incident Response  
+- Vulnerability Management & Threat Intelligence  
+- Wireshark, tcpdump   
+- VirusTotal, Hybrid Analysis, Abuse.ch Feeds  
+- MITRE ATT&CK Framework 
+- NIST Cybersecurity Framework (CSF) & NIST Incident Response Guidelines (SP 800-61) 
 
 ## Experience
 
-### *Computer Science Expert, Systema Datentechnik*
+### *System Engineer - SoC Analyst, Systema Datentechnik*
 *2023 - Present*
-: Instructor/Trainer for IT specialist system integration
-: Certified as Sophos Firewall Certified Engineer v20.0 (2024)
+: Certified as Sophos Central Endpoint Engineer (2025)
+: Re-certified as Sophos Firewall Engineer v21.0 (2025)
+: Certified as Sophos Firewall Engineer v20.0 (2024)
 : Certified in CompTIA PenTest+ (2024)
+: Instructor/Trainer for IT specialist system integration (2023)
 
 ### *Staff Sergeant, BMVg*
 *2012 - 2023*
