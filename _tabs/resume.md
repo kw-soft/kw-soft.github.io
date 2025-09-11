@@ -42,6 +42,13 @@ keywords: Resume, IT Specialist, Kevin Wilck, PHP, Python, DevOps, Cybersecurity
 : Certified in CompTIA PenTest+ (2024)
 : Instructor/Trainer for IT specialist system integration (2023)
 
+### *System Engineer - (Freelancer), ToLe Software Solutions*
+*2022 - 2024*
+: Conception, setup, and operation of the infrastructure
+: Development of CI/CD pipelines for the automated deployment of microservices
+: Implementation of monitoring, logging, and alerting solutions
+: Containerization & orchestration
+
 ### *Staff Sergeant, BMVg*
 *2012 - 2023*
 : Control and Reporting Centre & Air traffic control 
