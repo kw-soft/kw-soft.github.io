@@ -11,7 +11,7 @@ keywords: Resume, IT Specialist, Kevin Wilck, PHP, Python, DevOps, Cybersecurity
 
 ### Personal Information
 - **Age**: 33
-- **Profile**: IT Specialist
+- **Profile**: Cyber Security Analyst
 - **Address**: Ludwigsfelde, 14974
 - **E-mail**: kevin@wilck.io
 
@@ -34,8 +34,16 @@ keywords: Resume, IT Specialist, Kevin Wilck, PHP, Python, DevOps, Cybersecurity
 
 ## Experience
 
+### *Cyber Security Analyst, aDvens*
+*2026 - Present*
+: Monitoring and analysis of security events and alerts
+: Investigation and triage of security incidents
+: Security threat assessment and reporting
+: SentinelOne, Crowdstrike, MS Sentinel/XDR/Defender, HarfangLab
+: TrendVision, Paloalto, Fortinet
+
 ### *System Engineer - SoC Analyst, Systema Datentechnik*
-*2023 - Present*
+*2023 - 2026*
 : Certified as Sophos Central Endpoint Engineer (2025)
 : Re-certified as Sophos Firewall Engineer v21.0 (2025)
 : Certified as Sophos Firewall Engineer v20.0 (2024)
