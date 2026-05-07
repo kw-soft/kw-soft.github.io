@@ -101,7 +101,7 @@ The mitigation does not affect SSH, dm-crypt/LUKS, IPsec, OpenSSL, GnuTLS, or kT
 
 **Checking your automatic update status**
 
-If you are running Ubuntu on a Hetzner VPS or similar provider, note that the provider does not apply OS updates for you. Ubuntu's `unattended-upgrades` service handles security updates automatically: but only if it is enabled and configured. You can verify this with:
+Ubuntu's `unattended-upgrades` service handles security updates automatically: but only if it is enabled and configured. You can verify this with:
 
 ```bash
 cat /etc/apt/apt.conf.d/20auto-upgrades
