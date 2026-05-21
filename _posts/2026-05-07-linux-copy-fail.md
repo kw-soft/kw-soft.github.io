@@ -118,4 +118,4 @@ Both values should read `"1"`. Also worth knowing: even with automatic upgrades 
 - USN-8226-1: [ubuntu.com/security/notices/USN-8226-1](https://ubuntu.com/security/notices/USN-8226-1)
 - CERT-EU: [cert.europa.eu/publications/security-advisories/2026-005](https://cert.europa.eu/publications/security-advisories/2026-005/)
 - Microsoft Security Blog: [microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation](https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/)
-- Detection script: [github.com/kw-soft/copyfail](https://github.com/kw-soft/copyfail)
+- Detection script: [github.com/kw-soft/copyfail](https://github.com/kwilck/copyfail)

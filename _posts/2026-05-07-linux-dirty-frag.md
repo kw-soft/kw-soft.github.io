@@ -110,4 +110,4 @@ This is not a coincidence. AI-assisted vulnerability research is systematically 
 - Debian tracker: [security-tracker.debian.org/tracker/CVE-2026-43284](https://security-tracker.debian.org/tracker/CVE-2026-43284)
 - NVD CVE-2026-43284: [nvd.nist.gov/vuln/detail/CVE-2026-43284](https://nvd.nist.gov/vuln/detail/CVE-2026-43284)
 - Tenable FAQ: [tenable.com/blog/dirty-frag-cve-2026-43284-cve-2026-43500-frequently-asked-questions-linux-kernel-lpe](https://www.tenable.com/blog/dirty-frag-cve-2026-43284-cve-2026-43500-frequently-asked-questions-linux-kernel-lpe)
-- Copy Fail detection script: [github.com/kw-soft/copyfail](https://github.com/kw-soft/copyfail)
+- Copy Fail detection script: [github.com/kw-soft/copyfail](https://github.com/kwilck/copyfail)
