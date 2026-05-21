@@ -11,7 +11,7 @@ image:
 
 *ThreatFeed HQ*
 
-Hey there! I’m thrilled to tell you about **ThreatFeed HQ**, a cool project I’ve got running on [GitHub](https://github.com/kw-soft/ThreatIntelligence). It’s all about keeping you in the loop with the latest security news, and the best part? You can get real-time updates by joining our [Discord server](https://discord.com/invite/BgUCmYP3px)! Let’s check out what this tool does and why you’ll want to hop on board.
+Hey there! I’m thrilled to tell you about **ThreatFeed HQ**, a cool project I’ve got running on [GitHub](https://github.com/kwilck/ThreatIntelligence). It’s all about keeping you in the loop with the latest security news, and the best part? You can get real-time updates by joining our [Discord server](https://discord.com/invite/BgUCmYP3px)! Let’s check out what this tool does and why you’ll want to hop on board.
 
 *What’s ThreatFeed HQ?*
 
@@ -32,10 +32,10 @@ By joining our [Discord server](https://discord.com/invite/BgUCmYP3px), you’ll
 
 Want to set it up yourself or just join the action? Here’s how:
 - **Join Our Discord**: Hop into our [ThreatFeed HQ Discord server](https://discord.com/invite/BgUCmYP3px) to get real-time security updates from all our feeds. It’s the easiest way to stay informed!
-- **Run It Yourself**: If you want to host your own instance, check out the [GitHub repo](https://github.com/kw-soft/ThreatIntelligence) for full details. Quick steps:
+- **Run It Yourself**: If you want to host your own instance, check out the [GitHub repo](https://github.com/kwilck/ThreatIntelligence) for full details. Quick steps:
   1. **Clone the Repo**:
      ```bash
-     git clone https://github.com/KW-Soft/ThreatIntelligence.git
+     git clone https://github.com/kwilck/ThreatIntelligence.git
      cd ThreatIntelligence
      ```
   2. **Install Dependencies**:
@@ -70,7 +70,7 @@ Plus, it’s free to join, and you’ll stay ahead of the curve on security thre
 
 *Wrapping It Up*
 
-ThreatFeed HQ is my way of bringing threat intelligence to your fingertips, and our Discord server is the heart of it all. Whether you’re a security pro or just curious, come hang out with us on [Discord](https://discord.com/invite/BgUCmYP3px) or explore the project on [GitHub](https://github.com/kw-soft/ThreatIntelligence). If you like it, give it a star and share your thoughts!
+ThreatFeed HQ is my way of bringing threat intelligence to your fingertips, and our Discord server is the heart of it all. Whether you’re a security pro or just curious, come hang out with us on [Discord](https://discord.com/invite/BgUCmYP3px) or explore the project on [GitHub](https://github.com/kwilck/ThreatIntelligence). If you like it, give it a star and share your thoughts!
 
 Stay safe,  
 Kevin

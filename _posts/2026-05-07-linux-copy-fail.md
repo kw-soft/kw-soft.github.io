@@ -19,7 +19,7 @@ tags:
 
 Hey Guys! On April 29, 2026, one of the most significant Linux kernel vulnerabilities in recent years was publicly disclosed. Nicknamed **Copy Fail** and tracked as **CVE-2026-31431**, it allows any unprivileged local user to escalate to root: reliably, deterministically, and with a 732-byte Python script that works unmodified across virtually every major Linux distribution built since 2017.
 
-I wrote a safe detection script for it, which you can find on [GitHub](https://github.com/kw-soft/copyfail). But first, let me break down what this vulnerability actually is.
+I wrote a safe detection script for it, which you can find on [GitHub](https://github.com/kwilck/copyfail). But first, let me break down what this vulnerability actually is.
 
 
 **What is Copy Fail?**
@@ -58,7 +58,7 @@ A few notable cases:
 
 **The Detection Script**
 
-To make it easy to verify whether a system is protected, I wrote a safe detection script: **[kw-soft/copyfail](https://github.com/kw-soft/copyfail)**
+To make it easy to verify whether a system is protected, I wrote a safe detection script: **[kwilck/copyfail](https://github.com/kwilck/copyfail)**
 
 It performs three checks without touching the AF\_ALG interface or executing any exploit code:
 
@@ -69,7 +69,7 @@ It performs three checks without touching the AF\_ALG interface or executing any
 The Ubuntu check deserves a special mention: because Ubuntu backports security patches without changing the upstream kernel version number, checking `uname -r` alone is misleading. A system running `6.8.0-71-generic` may or may not be mitigated depending on the `kmod` package version: so the script checks that directly.
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/kw-soft/copyfail/main/copyfail.sh -o copyfail.sh
+curl -fsSL https://raw.githubusercontent.com/kwilck/copyfail/main/copyfail.sh -o copyfail.sh
 chmod +x copyfail.sh
 sudo ./copyfail.sh
 ```
@@ -118,4 +118,4 @@ Both values should read `"1"`. Also worth knowing: even with automatic upgrades 
 - USN-8226-1: [ubuntu.com/security/notices/USN-8226-1](https://ubuntu.com/security/notices/USN-8226-1)
 - CERT-EU: [cert.europa.eu/publications/security-advisories/2026-005](https://cert.europa.eu/publications/security-advisories/2026-005/)
 - Microsoft Security Blog: [microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation](https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/)
-- Detection script: [github.com/kw-soft/copyfail](https://github.com/kwilck/copyfail)
+- Detection script: [github.com/kwilck/copyfail](https://github.com/kwilck/copyfail)

@@ -11,7 +11,7 @@ image:
 
 *Python Process Scanner*
 
-Hey folks! I’m stoked to introduce **PyPScan**, a neat project I’ve got up on [GitHub](https://github.com/kw-soft/PyPScan). Let’s dive into what this tool is and how it helps keep tabs on your Windows processes with a little help from VirusTotal.
+Hey folks! I’m stoked to introduce **PyPScan**, a neat project I’ve got up on [GitHub](https://github.com/kwilck/PyPScan). Let’s dive into what this tool is and how it helps keep tabs on your Windows processes with a little help from VirusTotal.
 
 *What’s PyPScan?*
 
@@ -32,11 +32,11 @@ It’s built to be lightweight and respects VirusTotal’s rate limits with a 15
 
 *Getting Started*
 
-Ready to try it? Head to the [GitHub repo](https://github.com/kw-soft/PyPScan) for the full details. Here’s the quick rundown:
+Ready to try it? Head to the [GitHub repo](https://github.com/kwilck/PyPScan) for the full details. Here’s the quick rundown:
 
 1. **Clone the Repo**:
    ```bash
-   git clone https://github.com/kw-soft/PyPScan.git
+   git clone https://github.com/kwilck/PyPScan.git
    cd PyPScan
    ```
 
@@ -64,7 +64,7 @@ The script will scan your processes, check VirusTotal, and show a live progress 
 
 *Wrapping It Up*
 
-PyPScan is my take on making process scanning easy and transparent for Windows users. It’s perfect for anyone curious about what’s running on their system or looking to spot potential threats. Give it a whirl on [GitHub](https://github.com/kw-soft/PyPScan), maybe toss it a star if you find it handy, and let me know how it goes!
+PyPScan is my take on making process scanning easy and transparent for Windows users. It’s perfect for anyone curious about what’s running on their system or looking to spot potential threats. Give it a whirl on [GitHub](https://github.com/kwilck/PyPScan), maybe toss it a star if you find it handy, and let me know how it goes!
 
 Stay safe,  
 Kevin

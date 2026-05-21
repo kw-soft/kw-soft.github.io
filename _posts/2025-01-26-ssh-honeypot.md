@@ -18,7 +18,7 @@ image:
 ---
   **SSH Honeypot Project**
 
-  Hey Guys! I’ve always been fascinated by the cat-and-mouse game between defenders and attackers in the digital world. To better understand malicious activities targeting servers, I created an **SSH Honeypot** project, now open-sourced on [GitHub](https://github.com/kw-soft/SSH-honeypot). In this post, I’ll share the motivation behind the project, its key features, and how you can use or contribute to it.
+  Hey Guys! I’ve always been fascinated by the cat-and-mouse game between defenders and attackers in the digital world. To better understand malicious activities targeting servers, I created an **SSH Honeypot** project, now open-sourced on [GitHub](https://github.com/kwilck/SSH-honeypot). In this post, I’ll share the motivation behind the project, its key features, and how you can use or contribute to it.
 
   **What is an SSH Honeypot?**
 
@@ -33,7 +33,7 @@ image:
 
   **Key Features**
 
-  The [SSH Honeypot](https://github.com/kw-soft/SSH-honeypot) is written in Python for simplicity and portability. Here’s what it offers:
+  The [SSH Honeypot](https://github.com/kwilck/SSH-honeypot) is written in Python for simplicity and portability. Here’s what it offers:
 
   - **Realistic SSH Server Emulation**: Mimics an SSH server to deceive attackers, responding to connection attempts in a way that feels authentic.
   - **Detailed Logging**: Captures attacker IPs, credentials, commands, and timestamps for in-depth analysis.

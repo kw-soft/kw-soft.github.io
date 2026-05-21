@@ -11,7 +11,7 @@ image:
 
 *Introducing My PacketMonitor Tool*
 
-I’m thrilled to present **PacketMonitor**, an open-source project hosted on [GitHub](https://github.com/kw-soft/PacketMonitor). This post outlines what PacketMonitor does and how it supports network traffic analysis.
+I’m thrilled to present **PacketMonitor**, an open-source project hosted on [GitHub](https://github.com/kwilck/PacketMonitor). This post outlines what PacketMonitor does and how it supports network traffic analysis.
 
 *What is PacketMonitor?*
 
@@ -27,8 +27,8 @@ The tool captures packets on a specified network interface and processes them to
 
 *Getting Started*
 
-To try PacketMonitor, visit the [GitHub repository](https://github.com/kw-soft/PacketMonitor) for setup instructions. Typically, you’ll need to:
-1. Clone the repository: `git clone https://github.com/kw-soft/PacketMonitor.git`
+To try PacketMonitor, visit the [GitHub repository](https://github.com/kwilck/PacketMonitor) for setup instructions. Typically, you’ll need to:
+1. Clone the repository: `git clone https://github.com/kwilck/PacketMonitor.git`
 2. Install dependencies (e.g., Python libraries like `scapy`).
 3. Run the tool on a compatible network interface.
 
@@ -36,7 +36,7 @@ Check the repository’s documentation for specific requirements and usage detai
 
 *Wrapping Up*
 
-PacketMonitor is a straightforward tool for anyone interested in network analysis or cybersecurity. I hope it helps you gain visibility into your network’s activity. Explore the project on [GitHub](https://github.com/kw-soft/PacketMonitor), give it a star if you find it useful, and share your feedback!
+PacketMonitor is a straightforward tool for anyone interested in network analysis or cybersecurity. I hope it helps you gain visibility into your network’s activity. Explore the project on [GitHub](https://github.com/kwilck/PacketMonitor), give it a star if you find it useful, and share your feedback!
 
 Stay secure,  
 Kevin

@@ -10,7 +10,7 @@ image:
 ---
 
 Hello everyone,  
-In this post, I want to draw attention to the often underestimated risks of ICMP packets. A topic I explore with my proof-of-concept project **ICMPBreach** (available on [GitHub](https://github.com/kw-soft/ICMPbreach)). ICMP, commonly known for tools like `ping`, can be exploited by attackers to smuggle data such as messages or even files through networks undetected. This post highlights the dangers of this technique and explains why unchecked ICMP traffic poses a security risk. For discussions and questions, feel free to join our [Discord server](https://discord.com/invite/BgUCmYP3px)!
+In this post, I want to draw attention to the often underestimated risks of ICMP packets. A topic I explore with my proof-of-concept project **ICMPBreach** (available on [GitHub](https://github.com/kwilck/ICMPbreach)). ICMP, commonly known for tools like `ping`, can be exploited by attackers to smuggle data such as messages or even files through networks undetected. This post highlights the dangers of this technique and explains why unchecked ICMP traffic poses a security risk. For discussions and questions, feel free to join our [Discord server](https://discord.com/invite/BgUCmYP3px)!
 
 
 *What is ICMPBreach?*
@@ -59,7 +59,7 @@ To mitigate these risks, network administrators can take these steps:
 
 *Getting Started*
 
-To explore ICMPBreach, visit the [GitHub repository](https://github.com/kw-soft/ICMPbreach) for the source code and detailed setup instructions. The repo includes everything you need to test this PoC in a controlled environment.
+To explore ICMPBreach, visit the [GitHub repository](https://github.com/kwilck/ICMPbreach) for the source code and detailed setup instructions. The repo includes everything you need to test this PoC in a controlled environment.
 
 
 *Conclusion*
